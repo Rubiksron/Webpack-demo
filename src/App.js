@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import Posts from './Posts'
-import PostForm from './Postform'
+import './App.js';
 
+import Posts from './components/Posts';
+import PostForm from './components/Postform';
 
 
 class App extends Component {
