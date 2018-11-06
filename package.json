@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Rubiksron/Webpack-demo#readme",
   "dependencies": {
+    "babel-preset-stage-0": "^6.24.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-redux": "^5.1.0",
